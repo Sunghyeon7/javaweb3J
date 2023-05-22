@@ -18,7 +18,7 @@
             <span>Call us for any questions</span>
             <h4>+82 010 1234 5678</h4>
         </div>
-    </div>
+    </div>`
     <!-- Offcanvas Menu End -->
 
     <!-- Header Section Begin -->
@@ -27,7 +27,7 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="http://192.168.50.82:9090/javaweb3J/"><img src="img/logo2.png" alt=""></a>
+                        <a href="http://localhost:9090/javaweb3J/"><img src="img/logo2.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
